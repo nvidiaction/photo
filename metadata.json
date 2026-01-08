@@ -1,0 +1,5 @@
+{
+  "name": "Lumina 必应壁纸",
+  "description": "基于 Material Design 3 设计的必应每日壁纸画廊，集成了 Gemini AI 为每张精美图片提供深度解读。",
+  "requestFramePermissions": []
+}
